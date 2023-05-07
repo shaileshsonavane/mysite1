@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(233, 122, 226);
+    padding-top: 100px; 
+}
+
+table{
+    width: 300px;
+    height:200px;
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+
+}
+
+#s1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    size: 40px;
+    color:black;
+}
+
+#sr{
+    color: rgb(255, 0, 225);
+    size : 2em;
+    border-radius: 10px;
+    background-color:whitesmoke;
+    width: fit-content ;
+    position: absolute;
+    left: 500px;
+
+
+}
+
+#s1:hover {
+    background-color: rgb(181, 165, 18);
+    color: rgb(42, 165, 97);
+    
+  }
